@@ -1,0 +1,15 @@
+export {default as BornToday} from './BornToday';
+export {default as BoxOfficeList} from './BoxOfficeList';
+export {default as CommingSoon} from './CommingSoon';
+export {default as Explore} from './Explore';
+export {default as MovieSlide} from './MovieSlide';
+export {default as FeatureToday} from './FeatureToday';
+export {default as EditorPicks} from './EditorPicks';
+export {default as FanFavorites} from './FanFavorites';
+export {default as Navbar} from './Navbar';
+export {default as Web} from './Web';
+export {default as TopPicks} from './TopPicks';
+export {default as Footer} from './Footer';
+export {default as News} from './News';
+export {default as Originals} from './Originals';
+export {default as Theatre} from './Theatre';
